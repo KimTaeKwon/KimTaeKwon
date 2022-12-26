@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTaeKwon)](https://github.com/KimTaeKwon/github-readme-stats)
+| <a href="https://github.com/KimTaeKwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KimTaeKwon&hide=stars,contribs&show_icons=true&theme=dark" /></a> | <a href="https://github.com/KimTaeKwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimTaeKwon&layout=compact&theme=dark" /></a> |
+| ------------- | ------------- |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTaeKwon)](https://github.com/KimTaeKwon/github-readme-stats)
+## 🦾 STACKS
 
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -25,7 +26,6 @@
 
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/></a>
 
