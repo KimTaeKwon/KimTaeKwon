@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <a href="https://github.com/KimTaeKwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KimTaeKwon&hide=stars,contribs&show_icons=true&theme=dark" /></a> | <a href="https://github.com/KimTaeKwon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimTaeKwon&layout=compact&theme=dark" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimTaeKwon&hide=stars,contribs&show_icons=true&theme=dark" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimTaeKwon&layout=compact&theme=dark" /> |
 | ------------- | ------------- |
 
 ## 🦾 STACKS
