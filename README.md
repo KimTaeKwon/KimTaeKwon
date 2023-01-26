@@ -37,6 +37,7 @@
 
 <a><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/></a>
+<a><img src="https://aleen42.github.io/badges/src/zeplin.svg"/></a>
 
 <a><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
