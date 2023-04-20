@@ -15,7 +15,6 @@
 
 <a><img src="https://img.shields.io/badge/Semantic Web-005A9C?style=flat-square&logo=SemanticWeb&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/W3C-005A9C?style=flat-square&logo=W3C&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white"/></a>
 
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
